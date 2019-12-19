@@ -1,0 +1,188 @@
+{
+   "ANS_Plano": 111,
+   "NumeroProposta": "19019908",
+   "DataVigencia": "201906",
+   "Entidade": "FECOMERCIO SP",
+   "ProponenteTitular": {
+      "NomeMae": "ELZA LANCAROTTE XAVIER DE MENDONCA",
+      "Nome": "CLAUDIA XAVIER DE MENDONCA",
+      "PisPasep": [],
+      "RG": {
+         "Numero": "8780298",
+         "OrgaoExpedidor": []
+      },
+      "Sexo": "F",
+      "EstadoCivil": "Solteiro",
+      "Naturalidade": "/  /",
+      "DataNascimento": "-71787600000",
+      "CPF": "14666793879",
+      "CartaoSaude": "705808406150635",
+      "DeclaracaoNascidoVivo": [],
+      "InscricaoEntidade": [],
+      "InscricaoConselho": [],
+      "Cargo": [],
+      "Enderecos": {
+         "Comercial": {
+            "Logradouro": "R PADRE RAPOSO",
+            "Numero": "1300",
+            "Complemento": "AP 42",
+            "Bairro": "MOOCA",
+            "Municipio": "SAO PAULO",
+            "UF": [],
+            "CEP": "3118001",
+            "Cobranca": "true"
+         },
+         "Residencial": {
+            "Logradouro": "R PARANHOS",
+            "Numero": "3B",
+            "Complemento": [],
+            "Bairro": "VILA NOVA SAVOIA",
+            "Municipio": "SAO PAULO",
+            "UF": "SP",
+            "CEP": "3532020",
+            "Cobranca": []
+         }
+      },
+      "TelefoneCelular": "(11)97337-5559",
+      "email": "clauxavier@gmail.com",
+	  "ValorPorProponente": 
+	  {
+	  	"Idade": "51",
+		"Valor": "1452.99"
+	  }
+
+   },
+   "RepresentanteLegal": {
+      "Nome": "MARIA ASSUMPCION SERRAVINALS NAVARRO",
+      "RG": {
+         "Numero": "33385841",
+         "OrgaoExpedidor": "SSP/SP"
+      },
+      "Sexo": "F",
+      "EstadoCivil": "2",
+      "DataNascimento": "-502318800000",
+      "Parentesco": [],
+      "CPF": "93854390815"
+   },
+   "Dependentes": [
+      {
+         "NomeMae": "FRANCISCA SERRAVINALS SARSANEDAS DE NAVARRO",
+         "Nome": "ROSARIO SERRAVINALS SARSANEDAS DE NAVARRO",
+         "PisPasep": "0",
+         "Sexo": "F",
+         "EstadoCivil": "2",
+         "DataNascimento": "-502618800000",
+         "Parentesco": "Mãe",
+         "CPF": "1234567909",
+         "CartaoSaude": "0",
+         "DeclaracaoNascidoVivo": "0"
+      },
+      {
+         "NomeMae": "FRANCISCA SERRAVINALS SARSANEDAS DE NAVARRO",
+         "Nome": "ROSARIO SERRAVINALS SARSANEDAS DE NAVARRO",
+         "PisPasep": "0",
+         "Sexo": "F",
+         "EstadoCivil": "2",
+         "DataNascimento": "-502618800000",
+         "Parentesco": "Mãe",
+         "CPF": "1234567909",
+         "CartaoSaude": "0",
+         "DeclaracaoNascidoVivo": "0",
+         "ValorPorProponente": 
+         {
+            "Idade": "51",
+            "Valor": "1452.9900"
+         }
+      },
+      {
+         "NomeMae": "FRANCISCA SERRAVINALS SARSANEDAS DE NAVARRO",
+         "Nome": "ROSARIO SERRAVINALS SARSANEDAS DE NAVARRO",
+         "PisPasep": "0",
+         "Sexo": "F",
+         "EstadoCivil": "2",
+         "DataNascimento": "-502618800000",
+         "Parentesco": "Mãe",
+         "CPF": "1234567909",
+         "CartaoSaude": "0",
+         "DeclaracaoNascidoVivo": "0",
+         "ValorPorProponente": 
+         {
+            "Idade": "51",
+            "Valor": "1452.9900"
+         }
+      },
+      {
+         "NomeMae": "FRANCISCA SERRAVINALS SARSANEDAS DE NAVARRO",
+         "Nome": "ROSARIO SERRAVINALS SARSANEDAS DE NAVARRO",
+         "PisPasep": "0",
+         "Sexo": "F",
+         "EstadoCivil": "2",
+         "DataNascimento": "-502618800000",
+         "Parentesco": "Mãe",
+         "CPF": "1234567909",
+         "CartaoSaude": "0",
+         "DeclaracaoNascidoVivo": "0",
+         "ValorPorProponente": 
+         {
+            "Idade": "51",
+            "Valor": "1452.9900"
+         }
+      },
+      {
+         "NomeMae": "FRANCISCA SERRAVINALS SARSANEDAS DE NAVARRO",
+         "Nome": "ROSARIO SERRAVINALS SARSANEDAS DE NAVARRO",
+         "PisPasep": "0",
+         "Sexo": "F",
+         "EstadoCivil": "2",
+         "DataNascimento": "-502618800000",
+         "Parentesco": "Mãe",
+         "CPF": "1234567909",
+         "CartaoSaude": "0",
+         "DeclaracaoNascidoVivo": "0",
+         "ValorPorProponente": 
+         {
+            "Idade": "51",
+            "Valor": "1452.9900"
+         }
+      },
+      {
+         "NomeMae": "FRANCISCA SERRAVINALS SARSANEDAS DE NAVARRO",
+         "Nome": "ROSARIO SERRAVINALS SARSANEDAS DE NAVARRO",
+         "PisPasep": "0",
+         "Sexo": "F",
+         "EstadoCivil": "2",
+         "DataNascimento": "-502618800000",
+         "Parentesco": "Mãe",
+         "CPF": "1234567909",
+         "CartaoSaude": "0",
+         "DeclaracaoNascidoVivo": "0",
+         "ValorPorProponente": 
+         {
+            "Idade": "51",
+            "Valor": "1452.9900"
+         }
+      }
+   ],
+   "Empresa": {
+      "RazaoSocial": [],
+      "CNPJ": [],
+      "RamoAtividade": [],
+      "Sindicato": []
+   },
+   "DadosBancarios": {
+      "Reembolso": {
+         "CodigoBanco": "341",
+         "Banco": "BANCO ITAU S.A.",
+         "Agencia": "0056",
+         "Conta": "19077-0"
+      },
+      "Cobranca": {
+         "Vencimento": "3",
+         "CodigoBanco": "341",
+         "Banco": "BANCO ITAU S.A.",
+         "Agencia": "0056",
+         "Conta": "19077-0",
+         "DebitoAutomatico": "true"
+      }
+   }
+}
